@@ -1,4 +1,4 @@
-const Address = require("../model/Address");
+const Address = require("../model/address");
 
 // 1. Add Address
 const addAddress = async (req, res) => {
